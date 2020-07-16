@@ -1,15 +1,14 @@
 <form>
+<link rel="stylesheet" href="./vitrine.css" type="text/css" />
 
 <fieldset>
-    <legend>Remplissez le formlaire pour nous contactez !</legend>
+    <legend>Me contacter</legend>
 
+<div class="form-group">
 
+<label for="lastname"></label>
 
-        <div class="form-group">
-
-            <label for="lastname"></label>
-
-            <input type="text" class="form-control" id="lastname" placeholder="Nom">
+<input type="text" class="form-control" id="lastname" placeholder="Nom">
 
         </div>
 
