@@ -4,3 +4,4 @@
     <input type="text" name="extrait" placeholder="texte">
     <input type="submit" name="submit" value="Upload">
 </form>
+
